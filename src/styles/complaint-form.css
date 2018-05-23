@@ -1,0 +1,4 @@
+.form-field, label, button {
+		display: block;
+		margin: 6px;
+}
